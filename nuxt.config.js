@@ -64,12 +64,8 @@ export default {
     '@nuxtjs/pwa',
     // Doc: https://github.com/nuxt/content
     '@nuxt/content',
-    "@nuxtjs/svg",
-    '@nuxtjs/google-adsense'
-  ],
-  'google-adsense': {
-    id: 'ca-pub-2479144310234386'
-  },
+    "@nuxtjs/svg"
+  ]
   /*
   ** Content module configuration
   ** See https://content.nuxtjs.org/configuration
