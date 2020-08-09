@@ -1,7 +1,7 @@
 
 export default {
   router: {
-    base: '/investing-site/'
+    base: '/'
   },
   /*
   ** Nuxt rendering mode
@@ -65,7 +65,11 @@ export default {
     // Doc: https://github.com/nuxt/content
     '@nuxt/content',
     "@nuxtjs/svg",
+    '@nuxtjs/google-adsense'
   ],
+  'google-adsense': {
+    id: 'ca-pub-2479144310234386'
+  },
   /*
   ** Content module configuration
   ** See https://content.nuxtjs.org/configuration
