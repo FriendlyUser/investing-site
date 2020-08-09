@@ -1,5 +1,8 @@
 
 export default {
+  router: {
+    base: '/investing-site/'
+  },
   /*
   ** Nuxt rendering mode
   ** See https://nuxtjs.org/api/configuration-mode
