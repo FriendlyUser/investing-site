@@ -65,7 +65,7 @@ export default {
     // Doc: https://github.com/nuxt/content
     '@nuxt/content',
     "@nuxtjs/svg"
-  ]
+  ],
   /*
   ** Content module configuration
   ** See https://content.nuxtjs.org/configuration
