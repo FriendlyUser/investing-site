@@ -1,7 +1,7 @@
 
 export default {
   router: {
-    base: '/'
+    base: '/investing-site'
   },
   /*
   ** Nuxt rendering mode
